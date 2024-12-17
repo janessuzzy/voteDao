@@ -17,9 +17,9 @@
 
 ## Setup Instructions
 
-1. Clone the Repository:
-   `   git clone https://github.com/yourusername/VoteDAO.git <br>
-cd VoteDAO`
+1. Clone the Repository: <br>
+   `git clone https://github.com/yourusername/VoteDAO.git`
+   `cd VoteDAO`
 
 2. Install Dependencies:
    `npm install`
