@@ -18,12 +18,8 @@
 ## Setup Instructions
 
 1. Clone the Repository:
-   ```
-   git clone https://github.com/yourusername/VoteDAO.git
-   cd VoteDAO
-   ```
-
-```
+   `   git clone https://github.com/yourusername/VoteDAO.git <br>
+cd VoteDAO`
 
 2. Install Dependencies:
    `npm install`
@@ -47,4 +43,3 @@ This project is licensed under the MIT License.
 ---
 
 Contributions are welcome! Feel free to fork this repository, create issues, or submit pull requests.
-```
