@@ -1,6 +1,6 @@
 # voteDao
 
-[VoteDAO](https://votedao.netlify.app/)is a decentralized voting system that enables transparent and secure governance. It allows users to create proposals, vote in a fair manner, and view real-time results—all on the blockchain.
+[VoteDAO](https://votedao.netlify.app/) is a decentralized voting system that enables transparent and secure governance. It allows users to create proposals, vote in a fair manner, and view real-time results—all on the blockchain.
 
 ## Key Features
 
@@ -18,9 +18,9 @@
 ## Setup Instructions
 
 1. Clone the Repository:
-   `git clone https://github.com/yourusername/VoteDAO.git
+   `git clone https://github.com/yourusername/VoteDAO.git 
 cd VoteDAO
- `
+`
 
 2. Install Dependencies:
    `npm install`
@@ -33,7 +33,7 @@ cd VoteDAO
 
 ## How to Use
 
-- <strong>Create Proposals:</strong>Only the contract manager can create proposals.
+- <strong>Create Proposals:</strong> Only the contract manager can create proposals.
 - <strong>Vote:</strong> Users can vote once per proposal.
 - <strong>Track Results:</strong> Use the "getProposalResults" function to view live voting results.
 
